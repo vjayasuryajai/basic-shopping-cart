@@ -1,0 +1,19 @@
+.Home{
+
+
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: absolute;
+    margin : 60px 0px  0px  0px ;
+    z-index: -1;
+    
+    
+}
+
+.Spinner{
+
+ 
+  align-items: center;
+  justify-content: center;
+}
